@@ -25,6 +25,7 @@ Supported distributions:
 - Oracle Linux
 - Rocky Linux >= 8
 - Ubuntu >= 18.04
+- Linux Mint
 
 ## Usage
 
